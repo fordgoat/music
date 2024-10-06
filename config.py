@@ -11,7 +11,7 @@ API_ID = 29486311
 API_HASH = "ffdc688dc4eee8d2585cb24155188432"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "8104638928:AAEBISSXdq5crmdYhlWVP5uOrN3inQy8Bs0"
+BOT_TOKEN = "7271603326:AAEfj1Y2uz3jsrN0GIHud_oYBYVT9BjPlrk"
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = "mongodb+srv://kikoy:kikoy6969@cluster0.vooxu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
